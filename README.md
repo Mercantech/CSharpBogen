@@ -8,6 +8,7 @@ Bogen her indeholder både teori, eksempler, videoer og opgaver til at lære omk
 ## [C#-Basics](./CSharpBasics)    
 ### 1. Dit første program - Main(string[] args)
 * Vi har en standart konsol app i C#, vi skal starte med at forstå programmet før vi kan skrive i det!
+  
 ```c#
   internal class Program
     {
