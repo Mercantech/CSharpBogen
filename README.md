@@ -1,6 +1,7 @@
-# C#-Bogen
-
+# <img src="./Assets/Images/CSharp.png" alt="CSharpLogo" width="30"/> **- Bogen**
 C# bogen - Start med at lære C# og grundlæggende programmerings termer
+
+Bogen her indeholder både teori, eksempler, videoer og opgaver til at lære omkring **C#**!
 
 ## [Visual Studio](./VisualStudio)
 
