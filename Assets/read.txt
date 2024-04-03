@@ -1,0 +1,7 @@
+Jeg
+kan
+læse
+en
+fil
+med
+C#
