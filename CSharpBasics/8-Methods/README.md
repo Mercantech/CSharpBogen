@@ -2,7 +2,7 @@
 
 ## Hvad er en metode?
 
-En metode er en samling af instruktioner, der udfører en bestemt opgave. Metoder bruges til at organisere kode, gøre den genbrugelig og nemmere at vedligeholde.
+En metode er en samling af instruktioner, der udfører en bestemt opgave. Metoder bruges til at organisere kode, gøre den genanvendelig og nemmere at vedligeholde.
 
 ## Hvorfor bruger vi metoder?
 

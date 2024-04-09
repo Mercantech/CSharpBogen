@@ -77,6 +77,8 @@ int alder = 25;
 
 ### 3. [Expressions og Operatøre](../CSharpBogen/CSharpBasics/3-Expressions&Operators/)
 
+Expresseions og Operatøre er indbyggede i C# og vi kan generelt bruge dem til at manipulere vores data enten til at ændre sig eller bare til at få ting til at se bedre ud. Det er vigtigt at nævne at C# er både [`statically typed`](https://learning.oreilly.com/library/view/c-4-0-in/9781449379629/ch01.html#type_safety) med muligheden for [`dynamisk`](https://learn.microsoft.com/en-us/archive/msdn-magazine/2010/may/cutting-edge-using-the-dynamic-keyword-in-csharp-4-0) samt [`strongly typed`](https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/types/)
+
 ### 4. [Array & Lister](../CSharpBogen/CSharpBasics/4-Arrays&Lists/)
 
 I C# bruges arrays til at gemme og håndtere en samling af elementer af samme type. En array er en datastruktur, der giver mulighed for at gemme flere værdier i en enkelt variabel.
@@ -127,14 +129,19 @@ if (betingelse)
 
 ```
 
-### 6. [Objekter](../CSharpBogen/CSharpBasics/6-Objects/)
+### 6. [Objekter & Klasser](../CSharpBogen/CSharpBasics/6-Objects/)
+
+Objekter og Klasser er helt centralt i vores program, når vi skriver Objekt Orienteret kode, altså OOP!
+Vi bruger klasser som en plantegning for hvordan vores program skal agere og hvad det skal indeholde. Objekter gør at vi kan bruge vores klasser ved at lave en instans af dem og derefter faktisk bruge det data som bliver generet i vores hukommelse til at lave et stykke software!
 
 ### 7. [Loops & iterationer](../CSharpBogen/CSharpBasics/7-Loops&Iterations/)
 
+Loops og iterationer er vigtige i programmering og I kommer til at bruge dem meget, vi kan generelt gøre vores kode meget mindre og reducere tiden det tager for at ændre elementer. I C# er der flere typer loops som vi kigger på, inklusiv `for`, `while`, `do-while` og `foreach`.
+
 ### 8. [Metoder](../CSharpBogen/CSharpBasics/8-Methods/)
+
+En metode er en samling af instruktioner, der udfører en bestemt opgave. Metoder bruges til at organisere kode, gøre den genanvendelig og nemmere at vedligeholde. De hjælper med at opdele komplekse opgaver i mindre, mere håndterbare dele. Dette gør koden mere modulær og lettere at forstå. Når du skriver kode, kan du kalde en metode i stedet for at gentage den samme kode flere gange, hvilket reducerer redundans og forbedrer vedligeholdelsen.
 
 ### 9. [Debugging](../CSharpBogen/CSharpBasics/9-Debugging/)
 
-```
-
-```
+Debugging er et stort emne inden for programmering, I kommer til at bruge rigtig lang tid på det i løbet af jeres dage som programmøre! Derfor er der noget teori her til hvordan vi kan bruge de indbyggede værktøjer i Visual Studio! I burde gerne allerede kende nogle af koncepterne fra jeres GF2!
