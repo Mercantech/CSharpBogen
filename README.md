@@ -40,7 +40,7 @@ I kommer til at få en gennemgang med opsætning og en kort gennemgang af selve 
 
 ## [C#-Basics](./CSharpBasics)
 
-### 1. [Dit første program - Main(string[] args)](./CSharpBasics/1-FirstProgram/)
+### 1. [Dit første program - Main(string[] args)](../CSharpBogen/CSharpBasics/1-FirstProgram/)
 
 - Vi har en standart konsol app i C#, vi skal starte med at forstå programmet før vi kan skrive i det!
 
@@ -57,7 +57,7 @@ I kommer til at få en gennemgang med opsætning og en kort gennemgang af selve 
   }
 ```
 
-### 2. [Variabler](/CSharpBasics/2-Variables/)
+### 2. [Variabler](../CSharpBogen/CSharpBasics/2-Variables/)
 
 Variabler i C# er brugt til at gemme og manipulere data. En variabel kan være en bestemt type, f.eks. et heltal, en streng eller en boolean værdi.
 
@@ -75,9 +75,9 @@ int alder = 25;
 
 ```
 
-### 3. [Expressions og Operatøre](/CSharpBasics/3-Expressions&Operators/)
+### 3. [Expressions og Operatøre](../CSharpBogen/CSharpBasics/3-Expressions&Operators/)
 
-### 4. [Array & Lister](/CSharpBasics/4-Arrays&Lists/)
+### 4. [Array & Lister](../CSharpBogen/CSharpBasics/4-Arrays&Lists/)
 
 I C# bruges arrays til at gemme og håndtere en samling af elementer af samme type. En array er en datastruktur, der giver mulighed for at gemme flere værdier i en enkelt variabel.
 
@@ -109,7 +109,7 @@ numbers.Add(20);
 numbers.Add(30);
 ```
 
-### 5. [Control Flow](/CSharpBasics/5-ControlFlow/)
+### 5. [Control Flow](../CSharpBogen/CSharpBasics/5-ControlFlow/)
 
 I C# er conditionals en vigtig del af programmering, der giver dig mulighed for at udføre forskellige handlinger baseret på en bestemt betingelse. Du kan bruge forskellige typer conditionals i C#, herunder if, else, switch og ternary operator. Vi reffere også til det som kontrol flow, for vi kontrollere flowet af vores kode ud fra nogle betingelser (conditionals)
 
@@ -127,13 +127,13 @@ if (betingelse)
 
 ```
 
-### 6. [Objekter](/CSharpBasics/6-Objects/)
+### 6. [Objekter](../CSharpBogen/CSharpBasics/6-Objects/)
 
-### 7. [Loops & iterationer](/CSharpBasics/7-Loops&Iterations/)
+### 7. [Loops & iterationer](../CSharpBogen/CSharpBasics/7-Loops&Iterations/)
 
-### 8. [Metoder](/CSharpBasics/8-Methods/)
+### 8. [Metoder](../CSharpBogen/CSharpBasics/8-Methods/)
 
-### 9. [Debugging](/CSharpBasics/9-Debugging/)
+### 9. [Debugging](../CSharpBogen/CSharpBasics/9-Debugging/)
 
 ```
 
