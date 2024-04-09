@@ -4,7 +4,7 @@ C# bogen - Start med at lære C# og grundlæggende programmerings termer. Bogen 
 
 <table>
         <tr>
-          <th width='800'>Ekstra materiale</th>
+          <th width='500'>Ekstra materiale</th>
           <th>Links</th>
         </tr>
         <tr>
