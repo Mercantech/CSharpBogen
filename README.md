@@ -40,7 +40,7 @@ I kommer til at få en gennemgang med opsætning og en kort gennemgang af selve 
 
 ## [C#-Basics](./CSharpBasics)
 
-### 1. [Dit første program - Main(string[] args)](/CSharpBasics/1-FirstProgram/)
+### 1. [Dit første program - Main(string[] args)](./CSharpBasics/1-FirstProgram/)
 
 - Vi har en standart konsol app i C#, vi skal starte med at forstå programmet før vi kan skrive i det!
 
