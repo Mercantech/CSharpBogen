@@ -19,14 +19,14 @@ C# bogen - Start med at lære C# og grundlæggende programmerings termer. Bogen 
                   <p>Notion dokumentation og guide</p>
                   <p>På Notion er der ekstra dokumentation og matrialle. Vi har generelt alt information på Notion, så man kan også finde meget andet end C# dokumentation! </p>
           </td>
-          <td align="center"> <a href="https://mercantec.notion.site/API-i-NET-746a499da4b9489893449834869da4ca?pvs=74"><img src='https://github.com/MAGS-Template/README-Assets/blob/main/Notion_app_logo.png?raw=true' width='135'></a></td>
+          <td align="center"> <a href="https://mercantec.notion.site/API-i-NET-746a499da4b9489893449834869da4ca?pvs=74"><img src='https://github.com/MAGS-Template/README-Assets/blob/main/Notion_app_logo.png?raw=true' width='100'></a></td>
         </tr>
         <tr>
           <td align="center" style="color: red;" >
                 <p>Video guide [TBA] </p>
                 <p>Vi prøver at video dokumentere vores pensum, det er en løbende process, men det burde gøre det nemmere, hvis man er mere til video formattet end selv at læse! </p>
           </td>
-          <td align="center"> <a href="https://www.youtube.com/playlist?list=PL7-jfBWeCNfwlbjdpc_R3EIJYmZ-Q-qAu"><img src='https://github.com/MAGS-Template/README-Assets/blob/main/Youtube.png?raw=true' width='135'></a></td>
+          <td align="center"> <a href="https://www.youtube.com/playlist?list=PL7-jfBWeCNfwlbjdpc_R3EIJYmZ-Q-qAu"><img src='https://github.com/MAGS-Template/README-Assets/blob/main/Youtube.png?raw=true' width='100'></a></td>
         </tr>
 </table>
 
