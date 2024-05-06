@@ -1,5 +1,19 @@
 # C#-Basics
 
+<table>
+  <tr> 
+    <td>
+    <a href="https://mercantec.notion.site/C-Bogen-f14347898e524c72879274d7b725f474"><img src="../Assets/Images/CSharpBookRB.png" alt="CSharpLogo" width="100"/></a>
+    </td>
+    <td>
+    <p> Vores GitHub Repo indeholder ikke alt dokumentation og viden omkring C#, kun de mest relevante! </p>
+    <p> Det mest opdaterede og vedligholdte information findes næsten altid på <a href="https://mercantec.notion.site/C-Bogen-f14347898e524c72879274d7b725f474">Notion</a> </p>
+    <p>
+    </p>
+    </td>
+  </tr>
+</table>
+
 ### 1. [Dit første program - Main(string[] args)](../CSharpBasics/1-FirstProgram/)
 
 - Vi har en standart konsol app i C#, vi skal starte med at forstå programmet før vi kan skrive i det!
