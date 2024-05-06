@@ -9,7 +9,7 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hej og velkommen til H1!");
+            Console.WriteLine("Hej og velkommen til C#-bogen!");
         }
     }
   }

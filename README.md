@@ -1,6 +1,19 @@
-# <img src="./Assets/Images/CSharp.png" alt="CSharpLogo" width="30"/> **- Bogen**
+<img src="./Assets/Images/CsharpBanner.png" alt="CSharpLogo" width="1200"/>
 
-C# bogen - Start med at lære C# og grundlæggende programmerings termer. Bogen her indeholder både teori, eksempler, videoer og opgaver til at lære omkring **C#**!
+<table>
+  <tr> 
+    <td>
+    <img src="./Assets/Images/CSharpBookRB.png" alt="CSharpLogo" width="100"/>
+    </td>
+    <td>
+    <p> Start med at lære C# og grundlæggende programmerings termer. </p>
+    <p> Bogen her indeholder både teori, eksempler, videoer og opgaver til at lære omkring 
+     <strong>C#</strong>!</p>
+    <p>
+    </p>
+    </td>
+  </tr>
+</table>
 
 <table>
         <tr>
@@ -19,7 +32,7 @@ C# bogen - Start med at lære C# og grundlæggende programmerings termer. Bogen 
                   <p>Notion dokumentation og guide</p>
                   <p>På Notion er der ekstra dokumentation og matrialle. Vi har generelt alt information på Notion, så man kan også finde meget andet end C# dokumentation! </p>
           </td>
-          <td align="center"> <a href="https://mercantec.notion.site/C-Bogen-f14347898e524c72879274d7b725f474?pvs=4"><img src='https://github.com/MAGS-Template/README-Assets/blob/main/Notion_app_logo.png?raw=true' width='100'></a></td>
+          <td align="center"> <a href="https://mercantec.notion.site/API-i-NET-746a499da4b9489893449834869da4ca?pvs=74"><img src='https://github.com/MAGS-Template/README-Assets/blob/main/Notion_app_logo.png?raw=true' width='100'></a></td>
         </tr>
         <tr>
           <td align="center" style="color: red;" >
@@ -51,7 +64,7 @@ I kommer til at få en gennemgang med opsætning og en kort gennemgang af selve 
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hej og velkommen til H1!");
+            Console.WriteLine("Hej og velkommen til C#-Bogen!");
         }
     }
   }
