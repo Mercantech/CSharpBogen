@@ -2,9 +2,17 @@
 {
     public class Program
     {
+        enum Color
+        {
+            Red,
+            Green,
+            Blue
+        }
+
         static void Main(string[] args)
         {
-            Console.WriteLine("Hej og velkommen til C#-bogen!");
+            var favoriteColor = Color.Red;
+            Console.WriteLine(favoriteColor);
         }
     }
 }

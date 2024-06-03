@@ -4,7 +4,11 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hej, her skal vi bygge spillet 4 på stribe!");
+            bool? bool1 = null;
+            Console.WriteLine(bool1);
+            bool bool2 = null;
+            Console.WriteLine(bool2);
+           
         }
     }
 }
