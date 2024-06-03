@@ -32,7 +32,7 @@
                   <p>Notion dokumentation og guide</p>
                   <p>På Notion er der ekstra dokumentation og matrialle. Vi har generelt alt information på Notion, så man kan også finde meget andet end C# dokumentation! </p>
           </td>
-          <td align="center"> <a href="https://mercantec.notion.site/API-i-NET-746a499da4b9489893449834869da4ca?pvs=74"><img src='https://github.com/MAGS-Template/README-Assets/blob/main/Notion_app_logo.png?raw=true' width='100'></a></td>
+          <td align="center"> <a href="https://mercantec.notion.site/C-Bogen-f14347898e524c72879274d7b725f474"><img src='https://github.com/MAGS-Template/README-Assets/blob/main/Notion_app_logo.png?raw=true' width='100'></a></td>
         </tr>
         <tr>
           <td align="center" style="color: red;" >
