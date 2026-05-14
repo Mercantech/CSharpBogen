@@ -112,3 +112,5 @@ if (betingelse)
 ### 10. [Files](../CSharpBasics/10-Files/)
 
 ### 11. [LINQ](../CSharpBasics/11-LINQ/)
+
+LINQ bruges til at filtrere, sortere, gruppere og omforme data i C#. Kapitlet gennemgår blandt andet `Where`, `Select`, `OrderBy`, `FirstOrDefault`, `Any`, `GroupBy`, deferred execution, typiske fejl og større øvelser med produkter, elever og logfiler.
