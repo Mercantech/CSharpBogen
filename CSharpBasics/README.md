@@ -108,3 +108,7 @@ if (betingelse)
 ### 8. [Metoder](../CSharpBasics/8-Methods/)
 
 ### 9. [Debugging](../CSharpBasics/9-Debugging/)
+
+### 10. [Files](../CSharpBasics/10-Files/)
+
+### 11. [LINQ](../CSharpBasics/11-LINQ/)
